@@ -19,4 +19,6 @@ html {
 
 h1 {
   font-size: 3em;
+  text-shadow: 4px 4px 6px #000000;
+  font-weight: bold;
 }
